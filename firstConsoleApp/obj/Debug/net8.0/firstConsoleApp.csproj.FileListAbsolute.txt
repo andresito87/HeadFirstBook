@@ -12,3 +12,4 @@ C:\Users\andres\source\HeadFirstBook\firstConsoleApp\obj\Debug\net8.0\refint\fir
 C:\Users\andres\source\HeadFirstBook\firstConsoleApp\obj\Debug\net8.0\firstConsoleApp.pdb
 C:\Users\andres\source\HeadFirstBook\firstConsoleApp\obj\Debug\net8.0\firstConsoleApp.genruntimeconfig.cache
 C:\Users\andres\source\HeadFirstBook\firstConsoleApp\obj\Debug\net8.0\ref\firstConsoleApp.dll
+C:\Users\andres\source\HeadFirstBook\firstConsoleApp\obj\Debug\net8.0\firstConsoleApp.sourcelink.json
