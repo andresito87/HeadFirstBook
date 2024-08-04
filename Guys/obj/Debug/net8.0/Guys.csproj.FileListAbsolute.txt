@@ -1,0 +1,15 @@
+C:\Users\andres\source\HeadFirstBook\Guys\bin\Debug\net8.0\Guys.exe
+C:\Users\andres\source\HeadFirstBook\Guys\bin\Debug\net8.0\Guys.deps.json
+C:\Users\andres\source\HeadFirstBook\Guys\bin\Debug\net8.0\Guys.runtimeconfig.json
+C:\Users\andres\source\HeadFirstBook\Guys\bin\Debug\net8.0\Guys.dll
+C:\Users\andres\source\HeadFirstBook\Guys\bin\Debug\net8.0\Guys.pdb
+C:\Users\andres\source\HeadFirstBook\Guys\obj\Debug\net8.0\Guys.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andres\source\HeadFirstBook\Guys\obj\Debug\net8.0\Guys.AssemblyInfoInputs.cache
+C:\Users\andres\source\HeadFirstBook\Guys\obj\Debug\net8.0\Guys.AssemblyInfo.cs
+C:\Users\andres\source\HeadFirstBook\Guys\obj\Debug\net8.0\Guys.csproj.CoreCompileInputs.cache
+C:\Users\andres\source\HeadFirstBook\Guys\obj\Debug\net8.0\Guys.sourcelink.json
+C:\Users\andres\source\HeadFirstBook\Guys\obj\Debug\net8.0\Guys.dll
+C:\Users\andres\source\HeadFirstBook\Guys\obj\Debug\net8.0\refint\Guys.dll
+C:\Users\andres\source\HeadFirstBook\Guys\obj\Debug\net8.0\Guys.pdb
+C:\Users\andres\source\HeadFirstBook\Guys\obj\Debug\net8.0\Guys.genruntimeconfig.cache
+C:\Users\andres\source\HeadFirstBook\Guys\obj\Debug\net8.0\ref\Guys.dll

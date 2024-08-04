@@ -1,0 +1,15 @@
+C:\Users\andres\source\HeadFirstBook\CasinoApp\bin\Debug\net8.0\CasinoApp.exe
+C:\Users\andres\source\HeadFirstBook\CasinoApp\bin\Debug\net8.0\CasinoApp.deps.json
+C:\Users\andres\source\HeadFirstBook\CasinoApp\bin\Debug\net8.0\CasinoApp.runtimeconfig.json
+C:\Users\andres\source\HeadFirstBook\CasinoApp\bin\Debug\net8.0\CasinoApp.dll
+C:\Users\andres\source\HeadFirstBook\CasinoApp\bin\Debug\net8.0\CasinoApp.pdb
+C:\Users\andres\source\HeadFirstBook\CasinoApp\obj\Debug\net8.0\CasinoApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andres\source\HeadFirstBook\CasinoApp\obj\Debug\net8.0\CasinoApp.AssemblyInfoInputs.cache
+C:\Users\andres\source\HeadFirstBook\CasinoApp\obj\Debug\net8.0\CasinoApp.AssemblyInfo.cs
+C:\Users\andres\source\HeadFirstBook\CasinoApp\obj\Debug\net8.0\CasinoApp.csproj.CoreCompileInputs.cache
+C:\Users\andres\source\HeadFirstBook\CasinoApp\obj\Debug\net8.0\CasinoApp.sourcelink.json
+C:\Users\andres\source\HeadFirstBook\CasinoApp\obj\Debug\net8.0\CasinoApp.dll
+C:\Users\andres\source\HeadFirstBook\CasinoApp\obj\Debug\net8.0\refint\CasinoApp.dll
+C:\Users\andres\source\HeadFirstBook\CasinoApp\obj\Debug\net8.0\CasinoApp.pdb
+C:\Users\andres\source\HeadFirstBook\CasinoApp\obj\Debug\net8.0\CasinoApp.genruntimeconfig.cache
+C:\Users\andres\source\HeadFirstBook\CasinoApp\obj\Debug\net8.0\ref\CasinoApp.dll

@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PickRandomCardsMAUI.MainPage">
+
+    <ScrollView>
+        <VerticalStackLayout
+            Padding="30,0"
+            Spacing="25">
+
+            <Label
+                HorizontalTextAlignment="Center"
+                Text="How many cards should I pick?"
+                SemanticProperties.Description="How many cards should I pick?" 
+                />
+
+
+            <Entry 
+                x:Name="NumberOfCards"
+                Placeholder="Enter the number of cards to pick" 
+                />
+
+            <Button
+                x:Name="PickCardsBtn"
+                Text="Pick some cards" 
+                SemanticProperties.Hint="Pick number of cards that you entered"
+                Clicked="PickCardsBtn_Clicked"
+                HorizontalOptions="Center" />
+
+            <Label x:Name="Cards" 
+                           Padding="20" MinimumWidthRequest="150"
+                           TextColor="White" BackgroundColor="DarkBlue" 
+                           SemanticProperties.Description="Shows the cards" 
+                           />
+
+        </VerticalStackLayout>
+    </ScrollView>
+
+</ContentPage>
