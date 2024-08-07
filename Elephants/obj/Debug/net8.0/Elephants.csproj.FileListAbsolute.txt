@@ -1,0 +1,15 @@
+C:\Users\andres\source\HeadFirstBook\Elephants\bin\Debug\net8.0\Elephants.exe
+C:\Users\andres\source\HeadFirstBook\Elephants\bin\Debug\net8.0\Elephants.deps.json
+C:\Users\andres\source\HeadFirstBook\Elephants\bin\Debug\net8.0\Elephants.runtimeconfig.json
+C:\Users\andres\source\HeadFirstBook\Elephants\bin\Debug\net8.0\Elephants.dll
+C:\Users\andres\source\HeadFirstBook\Elephants\bin\Debug\net8.0\Elephants.pdb
+C:\Users\andres\source\HeadFirstBook\Elephants\obj\Debug\net8.0\Elephants.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andres\source\HeadFirstBook\Elephants\obj\Debug\net8.0\Elephants.AssemblyInfoInputs.cache
+C:\Users\andres\source\HeadFirstBook\Elephants\obj\Debug\net8.0\Elephants.AssemblyInfo.cs
+C:\Users\andres\source\HeadFirstBook\Elephants\obj\Debug\net8.0\Elephants.csproj.CoreCompileInputs.cache
+C:\Users\andres\source\HeadFirstBook\Elephants\obj\Debug\net8.0\Elephants.sourcelink.json
+C:\Users\andres\source\HeadFirstBook\Elephants\obj\Debug\net8.0\Elephants.dll
+C:\Users\andres\source\HeadFirstBook\Elephants\obj\Debug\net8.0\refint\Elephants.dll
+C:\Users\andres\source\HeadFirstBook\Elephants\obj\Debug\net8.0\Elephants.pdb
+C:\Users\andres\source\HeadFirstBook\Elephants\obj\Debug\net8.0\Elephants.genruntimeconfig.cache
+C:\Users\andres\source\HeadFirstBook\Elephants\obj\Debug\net8.0\ref\Elephants.dll
