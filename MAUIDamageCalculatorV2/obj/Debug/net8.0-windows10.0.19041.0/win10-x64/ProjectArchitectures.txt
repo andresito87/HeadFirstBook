@@ -1,0 +1,1 @@
+C:\Users\andres\source\HeadFirstBook\MAUIDamageCalculatorV2\MAUIDamageCalculatorV2.csproj;x64

@@ -1,0 +1,15 @@
+C:\Users\andres\source\HeadFirstBook\Hi-Lo-Game\bin\Debug\net8.0\Hi-Lo-Game.exe
+C:\Users\andres\source\HeadFirstBook\Hi-Lo-Game\bin\Debug\net8.0\Hi-Lo-Game.deps.json
+C:\Users\andres\source\HeadFirstBook\Hi-Lo-Game\bin\Debug\net8.0\Hi-Lo-Game.runtimeconfig.json
+C:\Users\andres\source\HeadFirstBook\Hi-Lo-Game\bin\Debug\net8.0\Hi-Lo-Game.dll
+C:\Users\andres\source\HeadFirstBook\Hi-Lo-Game\bin\Debug\net8.0\Hi-Lo-Game.pdb
+C:\Users\andres\source\HeadFirstBook\Hi-Lo-Game\obj\Debug\net8.0\Hi-Lo-Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andres\source\HeadFirstBook\Hi-Lo-Game\obj\Debug\net8.0\Hi-Lo-Game.AssemblyInfoInputs.cache
+C:\Users\andres\source\HeadFirstBook\Hi-Lo-Game\obj\Debug\net8.0\Hi-Lo-Game.AssemblyInfo.cs
+C:\Users\andres\source\HeadFirstBook\Hi-Lo-Game\obj\Debug\net8.0\Hi-Lo-Game.csproj.CoreCompileInputs.cache
+C:\Users\andres\source\HeadFirstBook\Hi-Lo-Game\obj\Debug\net8.0\Hi-Lo-Game.sourcelink.json
+C:\Users\andres\source\HeadFirstBook\Hi-Lo-Game\obj\Debug\net8.0\Hi-Lo-Game.dll
+C:\Users\andres\source\HeadFirstBook\Hi-Lo-Game\obj\Debug\net8.0\refint\Hi-Lo-Game.dll
+C:\Users\andres\source\HeadFirstBook\Hi-Lo-Game\obj\Debug\net8.0\Hi-Lo-Game.pdb
+C:\Users\andres\source\HeadFirstBook\Hi-Lo-Game\obj\Debug\net8.0\Hi-Lo-Game.genruntimeconfig.cache
+C:\Users\andres\source\HeadFirstBook\Hi-Lo-Game\obj\Debug\net8.0\ref\Hi-Lo-Game.dll

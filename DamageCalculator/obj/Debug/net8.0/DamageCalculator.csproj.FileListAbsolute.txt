@@ -1,0 +1,15 @@
+C:\Users\andres\source\HeadFirstBook\DamageCalculator\bin\Debug\net8.0\DamageCalculator.exe
+C:\Users\andres\source\HeadFirstBook\DamageCalculator\bin\Debug\net8.0\DamageCalculator.deps.json
+C:\Users\andres\source\HeadFirstBook\DamageCalculator\bin\Debug\net8.0\DamageCalculator.runtimeconfig.json
+C:\Users\andres\source\HeadFirstBook\DamageCalculator\bin\Debug\net8.0\DamageCalculator.dll
+C:\Users\andres\source\HeadFirstBook\DamageCalculator\bin\Debug\net8.0\DamageCalculator.pdb
+C:\Users\andres\source\HeadFirstBook\DamageCalculator\obj\Debug\net8.0\DamageCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andres\source\HeadFirstBook\DamageCalculator\obj\Debug\net8.0\DamageCalculator.AssemblyInfoInputs.cache
+C:\Users\andres\source\HeadFirstBook\DamageCalculator\obj\Debug\net8.0\DamageCalculator.AssemblyInfo.cs
+C:\Users\andres\source\HeadFirstBook\DamageCalculator\obj\Debug\net8.0\DamageCalculator.csproj.CoreCompileInputs.cache
+C:\Users\andres\source\HeadFirstBook\DamageCalculator\obj\Debug\net8.0\DamageCalculator.sourcelink.json
+C:\Users\andres\source\HeadFirstBook\DamageCalculator\obj\Debug\net8.0\DamageCalculator.dll
+C:\Users\andres\source\HeadFirstBook\DamageCalculator\obj\Debug\net8.0\refint\DamageCalculator.dll
+C:\Users\andres\source\HeadFirstBook\DamageCalculator\obj\Debug\net8.0\DamageCalculator.pdb
+C:\Users\andres\source\HeadFirstBook\DamageCalculator\obj\Debug\net8.0\DamageCalculator.genruntimeconfig.cache
+C:\Users\andres\source\HeadFirstBook\DamageCalculator\obj\Debug\net8.0\ref\DamageCalculator.dll

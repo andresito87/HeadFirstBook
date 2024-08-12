@@ -1,0 +1,15 @@
+C:\Users\andres\source\HeadFirstBook\Paintball\bin\Debug\net8.0\Paintball.exe
+C:\Users\andres\source\HeadFirstBook\Paintball\bin\Debug\net8.0\Paintball.deps.json
+C:\Users\andres\source\HeadFirstBook\Paintball\bin\Debug\net8.0\Paintball.runtimeconfig.json
+C:\Users\andres\source\HeadFirstBook\Paintball\bin\Debug\net8.0\Paintball.dll
+C:\Users\andres\source\HeadFirstBook\Paintball\bin\Debug\net8.0\Paintball.pdb
+C:\Users\andres\source\HeadFirstBook\Paintball\obj\Debug\net8.0\Paintball.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andres\source\HeadFirstBook\Paintball\obj\Debug\net8.0\Paintball.AssemblyInfoInputs.cache
+C:\Users\andres\source\HeadFirstBook\Paintball\obj\Debug\net8.0\Paintball.AssemblyInfo.cs
+C:\Users\andres\source\HeadFirstBook\Paintball\obj\Debug\net8.0\Paintball.csproj.CoreCompileInputs.cache
+C:\Users\andres\source\HeadFirstBook\Paintball\obj\Debug\net8.0\Paintball.sourcelink.json
+C:\Users\andres\source\HeadFirstBook\Paintball\obj\Debug\net8.0\Paintball.dll
+C:\Users\andres\source\HeadFirstBook\Paintball\obj\Debug\net8.0\refint\Paintball.dll
+C:\Users\andres\source\HeadFirstBook\Paintball\obj\Debug\net8.0\Paintball.pdb
+C:\Users\andres\source\HeadFirstBook\Paintball\obj\Debug\net8.0\Paintball.genruntimeconfig.cache
+C:\Users\andres\source\HeadFirstBook\Paintball\obj\Debug\net8.0\ref\Paintball.dll
